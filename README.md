@@ -1,12 +1,12 @@
 # JupyterLite Demo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://dougrzz.github.io/nc-dashboard-jupyterlite/lab/index.html)
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+Natluk coimmunity dashboard displayed in JupyterLite deployed as a static site of compiled web assembly code using Jupyterlite
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://jupyterlite.github.io/demo**
+➡️ **https://dougrzz.github.io/nc-dashboard-jupyterlite/lab?path=dashboard_nc-jupyterlite.ipynb**
 
 ![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
 
@@ -19,17 +19,8 @@ JupyterLite is being tested against modern web browsers:
 
 ## Usage
 
-This repository provides a demonstration of how to:
+This repository demonstrates the Natluk community dashboard in Jupyterlite.
 
-- build a JupyterLite release using prebuilt JupyterLite assets that bundles a collection of pre-existing Jupyter notebooks as part of the distribution;
-- deploy the release to GitHub Pages.
-
-The process is automated using Github Actions.
-
-You can use this repository in two main ways:
-
-- generate a new repository from this template repository and build and deploy your own site to the corresponding Github Pages site;
-- build a release from a PR made to this repository and download the release from the created GitHub Actions artifact.
 
 ### Co-opting This Repository to Build a Distribution
 
@@ -76,13 +67,6 @@ Check that you have Github Pages enabled for your repository: from your reposito
 When you commit a file, an updated release will be built and published on the Github Pages site. Note that it may take a few minutes for the Github Pages site to be updated. Do a hard refresh on your Github Pages site in your web browser to see the new release.
 
 
-
-### Further Information and Updates
-
-For more info, keep an eye on the JupyterLite documentation:
-
-- Configuring: https://jupyterlite.readthedocs.io/en/latest/configuring.html
-- Deploying: https://jupyterlite.readthedocs.io/en/latest/deploying.html
 
 ### Deploy a new version of JupyterLite
 
