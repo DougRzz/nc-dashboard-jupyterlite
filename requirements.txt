@@ -6,6 +6,6 @@ jupyterlab-fasta>=3,<4
 jupyterlab-geojson>=3,<4
 jupyterlab-tour
 jupyterlab_miami_nights
-jupyterlite==0.1.0b0
+jupyterlite==0.1.0b1
 plotly>=5,<6
 theme-darcula
