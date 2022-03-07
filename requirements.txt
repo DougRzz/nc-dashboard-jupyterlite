@@ -4,7 +4,7 @@ ipyleaflet
 ipyvuetify
 ipympl>=0.8.2
 ipywidgets>=7.6
-jupyterlab~=3.2.0
+jupyterlab>=3.3.0
 jupyterlab-drawio
 jupyterlab-language-pack-fr-FR
 jupyterlab-language-pack-zh-CN
