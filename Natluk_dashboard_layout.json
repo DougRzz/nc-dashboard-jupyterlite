@@ -1,0 +1,224 @@
+{
+  "global": {
+    "tabSetEnableClose": true,
+    "tabSetEnableTabStrip": false,
+    "tabSetTabLocation": "bottom"
+  },
+  "borders": [],
+  "layout": {
+    "type": "row",
+    "id": "#1",
+    "children": [
+      {
+        "type": "tabset",
+        "id": "#2",
+        "children": [
+          {
+            "type": "tab",
+            "id": "#3",
+            "name": "OVERVIEW",
+            "component": "sub",
+            "config": {
+              "model": {
+                "global": {
+                  "splitterSize": 8,
+                  "tabSetEnableClose": true,
+                  "tabSetEnableTabStrip": false
+                },
+                "borders": [],
+                "layout": {
+                  "type": "row",
+                  "id": "#1",
+                  "children": [
+                    {
+                      "type": "row",
+                      "id": "#b19aa52f-74b2-4460-8dc6-62b9871fb02c",
+                      "children": [
+                        {
+                          "type": "tabset",
+                          "id": "#3d3408d4-23ab-4890-96cb-68ca893ce33f",
+                          "weight": 13.648131944614235,
+                          "enableTabStrip": false,
+                          "children": [
+                            {
+                              "type": "tab",
+                              "id": "#a87b3280-3124-45b1-b27d-b2013e18d909",
+                              "name": "info",
+                              "component": "Widget",
+                              "config": {
+                                "layoutID": "#3"
+                              }
+                            }
+                          ]
+                        },
+                        {
+                          "type": "row",
+                          "id": "#6be3d839-ecbe-4cc0-947c-81ed22638a4a",
+                          "weight": 23.384909002662198,
+                          "children": [
+                            {
+                              "type": "tabset",
+                              "id": "#d133afd2-958b-4444-a6a0-1f30eb0bc540",
+                              "weight": 49.193548387096776,
+                              "enableTabStrip": false,
+                              "children": [
+                                {
+                                  "type": "tab",
+                                  "id": "#b201d7b9-162a-4c5e-8cd7-c22cf588d908",
+                                  "name": "Circulating supply",
+                                  "component": "Widget",
+                                  "config": {
+                                    "layoutID": "#3"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "type": "tabset",
+                              "id": "#61014423-29b9-4a62-b6a5-02ef04648bb0",
+                              "weight": 50.806451612903224,
+                              "enableTabStrip": false,
+                              "children": [
+                                {
+                                  "type": "tab",
+                                  "id": "#684d775f-0cb7-482e-ac6c-9bf2e1131ad0",
+                                  "name": "LP balance",
+                                  "component": "Widget",
+                                  "config": {
+                                    "layoutID": "#3"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "tabset",
+                          "id": "#82889aed-2313-4c37-bd06-ad58770304da",
+                          "weight": 6.880241256194627,
+                          "enableTabStrip": true,
+                          "children": [
+                            {
+                              "type": "tab",
+                              "id": "#d90a7d32-d8fc-4fee-bbb9-b30be907eab6",
+                              "name": "Select Address",
+                              "component": "Widget",
+                              "config": {
+                                "layoutID": "#3"
+                              }
+                            }
+                          ],
+                          "active": true
+                        },
+                        {
+                          "type": "row",
+                          "id": "#60011006-d32b-42b0-98e9-d59705aae48d",
+                          "weight": 17.77649144365054,
+                          "children": [
+                            {
+                              "type": "tabset",
+                              "id": "#acb0cb40-8bff-46d4-b2cc-71bebe47e1fa",
+                              "weight": 50,
+                              "enableTabStrip": true,
+                              "children": [
+                                {
+                                  "type": "tab",
+                                  "id": "#8df88136-a751-47a7-845a-bd1e1ab6dbff",
+                                  "name": "NC stats",
+                                  "component": "Widget",
+                                  "config": {
+                                    "layoutID": "#3"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "type": "tabset",
+                              "id": "#db18af53-581f-49e7-b15c-7fc907aa9131",
+                              "weight": 50,
+                              "enableTabStrip": true,
+                              "children": [
+                                {
+                                  "type": "tab",
+                                  "id": "#f39233d7-9f0a-42ad-a796-afd26dc848ff",
+                                  "name": "NC history",
+                                  "component": "Widget",
+                                  "config": {
+                                    "layoutID": "#3"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "row",
+                          "id": "#c3e7446e-884b-4ac9-9f91-0feafca7dcc0",
+                          "weight": 15.792138910405829,
+                          "children": [
+                            {
+                              "type": "tabset",
+                              "id": "#ea73ca3a-55a0-4e1b-8f86-542bebdb2925",
+                              "weight": 50,
+                              "enableTabStrip": true,
+                              "children": [
+                                {
+                                  "type": "tab",
+                                  "id": "#5a90f468-d8bc-431b-97dd-f18dffe6afce",
+                                  "name": "LP stats",
+                                  "component": "Widget",
+                                  "config": {
+                                    "layoutID": "#3"
+                                  }
+                                }
+                              ]
+                            },
+                            {
+                              "type": "tabset",
+                              "id": "#0ef8a1f2-a0e0-4dec-8efa-e037e146ad3d",
+                              "weight": 50,
+                              "enableTabStrip": true,
+                              "children": [
+                                {
+                                  "type": "tab",
+                                  "id": "#25a7b022-6aa3-4aad-bbcf-21cc8f624d12",
+                                  "name": "LP history",
+                                  "component": "Widget",
+                                  "config": {
+                                    "layoutID": "#3"
+                                  }
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "tabset",
+                          "id": "#d6cb2eb4-1398-4bf7-8980-081a470a0444",
+                          "weight": 22.518087442472595,
+                          "enableTabStrip": true,
+                          "children": [
+                            {
+                              "type": "tab",
+                              "id": "#3458fa6e-9c24-4cb4-ad54-bc500f6ff6b7",
+                              "name": "Farm stats",
+                              "component": "Widget",
+                              "config": {
+                                "layoutID": "#3"
+                              }
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            }
+          }
+        ],
+        "active": true
+      }
+    ]
+  }
+}
