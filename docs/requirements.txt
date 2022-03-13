@@ -1,0 +1,10 @@
+ipyvuetify
+ipywidgets>=7.6
+ipyflex
+jupyterlab>=3.3.0
+jupyterlab-hide-code
+jupyterlab_miami_nights
+jupyterlite==0.1.0b2
+plotly
+theme-darcula
+pydata-sphinx-theme
