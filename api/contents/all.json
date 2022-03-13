@@ -2,21 +2,21 @@
   "content": [
     {
       "content": null,
-      "created": "2022-03-13T23:44:05.154361Z",
+      "created": "2022-03-13T23:51:20.192752Z",
       "format": null,
-      "last_modified": "2022-03-13T23:43:08.642712Z",
+      "last_modified": "2022-03-13T23:50:30.255088Z",
       "mimetype": null,
       "name": "dashboard_nc-jupyterlite.ipynb",
       "path": "dashboard_nc-jupyterlite.ipynb",
-      "size": 20159,
+      "size": 17697,
       "type": "notebook",
       "writable": true
     },
     {
       "content": null,
-      "created": "2022-03-13T23:44:05.158361Z",
+      "created": "2022-03-13T23:51:20.196752Z",
       "format": null,
-      "last_modified": "2022-03-13T23:44:05.158361Z",
+      "last_modified": "2022-03-13T23:51:20.196752Z",
       "mimetype": null,
       "name": "data",
       "path": "data",
@@ -26,9 +26,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-13T23:44:05.154361Z",
+      "created": "2022-03-13T23:51:20.192752Z",
       "format": null,
-      "last_modified": "2022-03-13T23:43:08.642712Z",
+      "last_modified": "2022-03-13T23:50:30.255088Z",
       "mimetype": "application/json",
       "name": "NCw.json",
       "path": "NCw.json",
@@ -38,9 +38,9 @@
     },
     {
       "content": null,
-      "created": "2022-03-13T23:44:05.154361Z",
+      "created": "2022-03-13T23:51:20.192752Z",
       "format": null,
-      "last_modified": "2022-03-13T23:44:03.590261Z",
+      "last_modified": "2022-03-13T23:51:18.692731Z",
       "mimetype": "text/markdown",
       "name": "README.md",
       "path": "README.md",
@@ -49,9 +49,9 @@
       "writable": true
     }
   ],
-  "created": "2022-03-13T23:44:05.154361Z",
+  "created": "2022-03-13T23:51:20.192752Z",
   "format": "json",
-  "last_modified": "2022-03-13T23:44:05.154361Z",
+  "last_modified": "2022-03-13T23:51:20.192752Z",
   "mimetype": null,
   "name": "",
   "path": "",
