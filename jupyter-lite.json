@@ -1,4 +1,7 @@
 {
+  "@jupyterlab/apputils-extension:themes": {
+    "theme": "JupyterLab Dark"
+  },
   "jupyter-config-data": {
     "appName": "JupyterLite",
     "appUrl": "./lab",
@@ -61,12 +64,7 @@
     "fullMathjaxUrl": "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js",
     "fullStaticUrl": "./build",
     "licensesUrl": "./lab/api/licenses",
-    "mathjaxConfig": "TeX-AMS_CHTML-full,Safe",
-    "settingsOverrides": {
-      "@jupyterlab/apputils-extension:themes": {
-        "theme": "JupyterLab Dark"
-      }
-    }
+    "mathjaxConfig": "TeX-AMS_CHTML-full,Safe"
   },
   "jupyter-lite-schema-version": 0
 }
