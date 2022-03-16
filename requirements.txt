@@ -1,5 +1,5 @@
 ipyvuetify
-ipywidgets>=7.7
+ipywidgets==7.7
 ipyflex
 jupyterlab>=3.3.2
 jupyterlab_hide_code
