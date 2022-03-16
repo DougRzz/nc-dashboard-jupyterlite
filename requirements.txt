@@ -1,9 +1,9 @@
 ipyvuetify
 ipywidgets>=7.6
 ipyflex
-jupyterlab>=3.3.0
-jupyterlab-hide-code
+jupyterlab>=3.3.1
+jupyterlab_hide_code
 jupyterlab_miami_nights
-jupyterlite==0.1.0b2
+jupyterlite==0.1.0b3
 plotly
 theme-darcula
