@@ -18,18 +18,6 @@
       {
         "extension": "./extension",
         "liteExtension": false,
-        "load": "static/remoteEntry.bf6b3192a558615425cd.js",
-        "name": "@telamonian/theme-darcula"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.145e469029155b53b350.js",
-        "name": "@timkpaine/jupyterlab_miami_nights"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
         "load": "static/remoteEntry.c78d34b36abe05fb4a1b.js",
         "name": "ipyflex"
       },
@@ -44,13 +32,6 @@
         "liteExtension": false,
         "load": "static/remoteEntry.39dda9717d4e39a08c5a.js",
         "name": "jupyter-vuetify"
-      },
-      {
-        "extension": "./extension",
-        "liteExtension": false,
-        "load": "static/remoteEntry.cbb83081e80aa318685e.js",
-        "name": "jupyterlab-hide-code",
-        "style": "./style"
       },
       {
         "extension": "./extension",
